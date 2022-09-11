@@ -1,0 +1,78 @@
+.hidden {
+    display: none;
+}
+
+.background {
+    width: 100%;
+    height: 100%;
+}
+
+.clock {
+    font-size:5cm;
+    color:white;
+    text-shadow: 3px 3px 3px #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:absolute;
+    top: 50; left:30%;
+}
+
+.greeting {
+    font-size:3cm;
+    color:white;
+    text-shadow: 3px 3px 3px #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:absolute;
+    top: 60%; left: 30%;
+}
+
+.todo {
+    height: 1cm;
+    width: 13.3cm;
+    position: absolute;
+    top:10%; left:5%;
+    font-size: 1cm;
+}
+
+.nameinput {
+    height: 1cm;
+    width: 13.3cm;
+    position: absolute;
+    top:10%; left:50%;
+    font-size: 1cm;
+}
+
+.todolist {
+    font-size:1cm;
+    color:white;
+    text-shadow: 3px 3px 3px #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:absolute;
+    left: 5%; top:15%;
+}
+
+.quote {
+    font-size:1cm;
+    color:white;
+    text-shadow: 3px 3px 3px #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:absolute;
+    top:50%; left:30%; 
+}
+
+.author {
+    font-size:1cm;
+    color:white;
+    text-shadow: 3px 3px 3px #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:absolute;
+    top:55%; left:30%;
+}
+
+.weather {
+    font-size:1cm;
+    color:white;
+    text-shadow: 3px 3px 3px #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:absolute;
+    top:10%; left:80%;
+}
