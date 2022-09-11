@@ -35,9 +35,9 @@
 
 .nameinput {
     height: 1cm;
-    width: 13.3cm;
+    width: 8.7cm;
     position: absolute;
-    top:10%; left:50%;
+    top:10%; left:40%;
     font-size: 1cm;
 }
 
@@ -75,4 +75,11 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position:absolute;
     top:10%; left:80%;
+}
+
+.loginbutton {
+    height: 1cm;
+    width: 3cm;
+    position: absolute;
+    top:10%; left:65%;
 }
